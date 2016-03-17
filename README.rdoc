@@ -21,6 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
-
-23:29
+Bug at index page  http://stackoverflow.com/questions/35573040/bug-undefined-method-name-for-nilnilclass-from-how-to-build-a-reddit-by-m
